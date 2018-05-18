@@ -1,0 +1,5 @@
+{
+    "message": "COMPUTER wins this move!",
+    "player1Status": "Name:COMPUTER, move:PAPER, wins:1",
+    "player2Status": "Name:HUMAN, move:ROCK, wins:0"
+}
